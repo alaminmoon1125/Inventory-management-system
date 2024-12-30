@@ -1,0 +1,65 @@
+1002 processor 5 107495.00
+Item ID: 1002 | Name: processor | Quantity: 2 | Total Cost: 42998.00 | Payment: Nagad | Mobile: 01760809849
+Name: moon | Mobile: 01760809849 | Item ID: 1002 | Name: processor | Quantity: 1 | Total Cost: 21499.00 | Payment: Nagad
+Name: taskin | Mobile: 01760809849 | Item ID: 1002 | Name: processor | Quantity: 1 | Total Cost: 21499.00 | Payment: Nagad
+Name: alamin | Mobile: 01760809849 | Item ID: 1002 | Name: processor | Quantity: 10 | Total Cost: 214990.00 | Payment: Nagad
+Name: kumar | Mobile: 01723568412 | Item ID: 1002 | Name: processor | Quantity: 22 | Total Cost: 472978.00 | Payment: Nagad
+Name: sakil | Mobile: 01756158498 | Item ID: 1002 | Name: processor | Quantity: 2 | Total Cost: 42998.00 | Payment: Nagad
+Name: sami | Mobile: 01760809849 | Item ID: 1002 | Name: processor | Quantity: 5 | Total Cost: 107495.00 | Payment: Nagad
+Name: moon | Mobile: 01760809849 | Item ID: 1002 | Name: processor | Quantity: 1 | Total Cost: 21499.00 | Payment: Nagad
+Name: payel | Mobile: 01760809849 | Item ID: 1002 | Name: processor | Quantity: 1 | Total Cost: 21499.00 | Payment: Rocket
+Name: moon | Mobile: 01760809849 | Item ID: 1002 | Name: processor | Quantity: 10 | Total Cost: 214550.00 | Payment: Nagad
+Name: asik | Mobile: 017 | Item ID: 1002 | Name: processor | Quantity: 1 | Total Cost: 21455.00 | Payment: Nagad
+Name: moon | Mobile: 012 | Item ID: 1002 | Name: processor | Quantity: 2 | Total Cost: 42910.00 | Payment: Bkash
+Name: moon | Mobile: 014 | Item ID: 1002 | Name: processor | Quantity: 2 | Total Cost: 42910.00 | Payment: Bkash
+Name: ll | Mobile: 014 | Item ID: 1002 | Name: processor | Quantity: 1 | Total Cost: 21455.00 | Payment: Bkash
+Name: moon | Mobile: 017 | Item ID: 1004 | Name: usb | Quantity: 10 | Total Cost: 5000.00 | Payment: Bkash
+Name: zafor | Mobile: 01456 | Item ID: 1003 | Name: motherboard | Quantity: 2 | Total Cost: 30710.00 | Payment: Bkash
+Name: sakil | Mobile: 01756421236 | Item ID: 1006 | Name: ssd | Quantity: 2 | Total Cost: 30932.00 | Payment: Bkash
+Name: mo | Mobile: 0178965136 | Item ID: 1005 | Name: processor | Quantity: 2 | Total Cost: 30998.00 | Payment: Bkash
+Name: santo | Mobile: 01760809849 | Item ID: 1005 | Name: processor | Quantity: 2 | Total Cost: 30998.00 | Payment: Bkash
+Name: ll | Mobile: 017 | Item ID: 1005 | Name: processor | Quantity: 2 | Total Cost: 30998.00 | Payment: Bkash
+Name: lk | Mobile: 017 | Item ID: 1006 | Name: ssd | Quantity: 14 | Total Cost: 216524.00 | Payment: Bkash
+Name: saabbir | Mobile: 01746562632 | Item ID: 1006 | Name: ssd | Quantity: 12 | Total Cost: 185592.00 | Payment: Bkash
+Name: ii | Mobile: 0000 | Item ID: 1006 | Name: ssd | Quantity: 2 | Total Cost: 30932.00 | Payment: Bkash
+Name: oio | Mobile: 01745 | Item ID: 1006 | Name: ssd | Quantity: 2 | Total Cost: 30932.00 | Payment: Bkash
+Name: lklk | Mobile: 01141 | Item ID: 1006 | Name: ssd | Quantity: 1 | Total Cost: 15466.00 | Payment: Bkash
+Name: emon | Mobile: 017 | Item ID: 1006 | Name: ssd | Quantity: 1 | Total Cost: 15466.00 | Payment: Bkash
+Name: rizvi | Mobile: 01745216954 | Item ID: 1006 | Name: ssd | Quantity: 5 | Total Cost: 77330.00 | Payment: Nagad
+Name: Unknown | Mobile: 01760809849 | Item ID: 1006 | Name: ssd | Quantity: 2 | Total Cost: 30932.00 | Payment: Bkash
+Name: Unknown | Mobile: 12 | Item ID: 1003 | Name: motherboard | Quantity: 2 | Total Cost: 30710.00 | Payment: Bkash
+Name: Unknown | Mobile: 01 | Item ID: 1003 | Name: motherboard | Quantity: 2 | Total Cost: 30710.00 | Payment: Bkash
+Name: Unknown | Mobile: 012 | Item ID: 1003 | Name: motherboard | Quantity: 2 | Total Cost: 30710.00 | Payment: Bkash
+Name: Unknown | Mobile: 017 | Item ID: 1003 | Name: motherboard | Quantity: 2 | Total Cost: 30710.00 | Payment: Bkash
+Name: moon | Mobile: 021 | Item ID: 1003 | Name: motherboard | Quantity: 1 | Total Cost: 15355.00 | Payment: Bkash
+Name: k | Mobile: 3245 | Item ID: 1003 | Name: motherboard | Quantity: 5 | Total Cost: 76775.00 | Payment: Bkash
+Name: k | Mobile: 222 | Item ID: 1003 | Name: motherboard | Quantity: 2 | Total Cost: 30710.00 | Payment: Bkash
+Mobile: 017 | Item ID: 1003 | Name: motherboard | Quantity: 5 | Total Cost: 76775.00 | Payment: Bkash
+Name: ultron | Mobile: 01765458912 | Item ID: 1003 | Name: motherboard | Quantity: 2 | Total Cost: 30710.00 | Payment: Bkash
+Name: tony | Mobile: 01760805462 | Item ID: 1001 | Name: motherboard | Quantity: 2 | Total Cost: 30998.00 | Payment: Rocket
+Name: muun | Mobile: 017 | Item ID: 1001 | Name: motherboard | Quantity: 5 | Total Cost: 77495.00 | Payment: Nagad
+Name: zafor | Mobile: 01478851 | Item ID: 1001 | Name: motherboard | Quantity: 8 | Total Cost: 123992.00 | Payment: Bkash
+Name: lipo | Mobile: 014725836954 | Item ID: 1003 | Name: usb | Quantity: 0 | Total Cost: 0.00 | Payment: Nagad
+Name: moon | Mobile: 01760809849 | Item ID: 1001 | Name: motherboard | Quantity: 1 | Total Cost: 15499.00 | Payment: Nagad
+Name: tomal | Mobile: 01760809849 | Item ID: 1001 | Name: motherboard | Quantity: 4 | Total Cost: 61996.00 | Payment: Bank Card
+Name: tahmid | Mobile: 01786983734 | Item ID: 1001 | Name: motherboard | Quantity: 10 | Total Cost: 154990.00 | Payment: Bank Card
+Name: sun | Mobile: 01718646539 | Item ID: 1001 | Name: motherboard | Quantity: 3 | Total Cost: 46497.00 | Payment: Nagad
+Name: jon | Mobile: 23 | Item ID: 1001 | Name: motherboard | Quantity: 5 | Total Cost: 77495.00 | Payment: Nagad
+Name: moon | Mobile: 12 | Item ID: 1002 | Name: processor | Quantity: 5 | Total Cost: 117275.00 | Payment: Nagad
+Name: uni | Mobile: 01456987 | Item ID: 1003 | Name: usb | Quantity: 2 | Total Cost: 998.00 | Payment: Nagad
+Name: poi | Mobile: 222 | Item ID: 1001 | Name: motherboard | Quantity: 10 | Total Cost: 154990.00 | Payment: Bkash
+Name: poi | Mobile: 0147 | Item ID: 1001 | Name: motherboard | Quantity: 5 | Total Cost: 77495.00 | Payment: Nagad
+Name: u | Mobile: uuu | Item ID: 1003 | Name: usb | Quantity: 1 | Total Cost: 499.00 | Payment: Nagad
+Name: lkl | Mobile: 017 | Item ID: 1003 | Name: usb | Quantity: 2 | Total Cost: 998.00 | Payment: Nagad
+Name: moon | Mobile: 017 | Item ID: 1001 | Name: motherboard | Quantity: 1 | Total Cost: 15499.00 | Payment: Bkash
+Name: moon | Mobile: 01760809849 | Item ID: 1001 | Name: motherboard | Quantity: 2 | Total Cost: 30998.00 | Payment: Bkash
+Name: kha | Mobile: 01564203695 | Item ID: 1001 | Name: motherboard | Quantity: 1 | Total Cost: 15499.00 | Payment: Bank Card
+Name: mkkk | Mobile: 0145 | Item ID: 1001 | Name: motherboard | Quantity: 10 | Total Cost: 154990.00 | Payment: Nagad
+Name: shakil | Mobile: 01760809849 | Item ID: 1001 | Name: motherboard | Quantity: 1 | Total Cost: 15499.00 | Payment: Bank Card
+Name: moon | Mobile: 01760809849 | Item ID: 1001 | Name: motherboard | Quantity: 1 | Total Cost: 15499.00 | Payment: Bank Card
+Name: kk | Mobile: 014 | Item ID: 1001 | Name: motherboard | Quantity: 2 | Total Cost: 30998.00 | Payment: Nagad
+Name: lklk | Mobile: 0017 | Item ID: 1003 | Name: usb | Quantity: 2 | Total Cost: 998.00 | Payment: Nagad
+Name: sarkar | Mobile: 01760809849 | Item ID: 1001 | Name: motherboard | Quantity: 1 | Total Cost: 15499.00 | Payment: Rocket
+Name: lklk | Mobile: 0111 | Item ID: 1001 | Name: motherboard | Quantity: 2 | Total Cost: 30998.00 | Payment: Nagad
+Name: lk | Mobile: 333 | Item ID: 1001 | Name: motherboard | Quantity: 2 | Total Cost: 30998.00 | Payment: Nagad
+Name: jhk | Mobile: 01456321584 | Item ID: 1003 | Name: usb | Quantity: 1 | Total Cost: 499.00 | Payment: Nagad
